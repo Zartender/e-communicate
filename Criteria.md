@@ -26,6 +26,7 @@ WHEN I add my database name, MySQL username, and MySQL password to an environmen
 THEN I am able to connect to a database using Sequelize
 <!-- done -->
 WHEN I enter schema and seed commands
+<!-- done -->
 THEN a development database is created and is seeded with test data
 WHEN I enter the command to invoke the application
 THEN my server is started and the Sequelize models are synced to the MySQL database
